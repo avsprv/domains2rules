@@ -1,0 +1,9 @@
+# примеры входных форматов
+example.com
+*.example.org
+||adguard.example^
+https://sub.example.net/path?q=1
+0.0.0.0 hosts.example
+site1.example
+site2.example
+site3.example
